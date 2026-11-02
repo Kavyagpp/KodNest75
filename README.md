@@ -10,13 +10,14 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**3 / 75 Problems Completed**
+**4 / 75 Problems Completed**
 
-| Day | Problem Name                                    | Category     | Status |
-| :-: | ----------------------------------------------- | ------------ | :----: |
-|  01 | Kids With the Greatest Number of Chocolates     | Arrays       |    ✅   |
-|  02 | Merge Strings Alternately                       | Two Pointers |    ✅   |
-|  03 | Greatest Common Prefix Pattern (GCD of Strings) | Strings      |    ✅   |
+| Day | Problem Name                                    | Category      | Status |
+| :-: | ----------------------------------------------- | ------------- | :----: |
+|  01 | Kids With the Greatest Number of Chocolates     | Arrays        |    ✅   |
+|  02 | Merge Strings Alternately                       | Two Pointers  |    ✅   |
+|  03 | Greatest Common Prefix Pattern (GCD of Strings) | Strings       |    ✅   |
+|  04 | Koko Eating Bananas                             | Binary Search |    ✅   |
 
 ---
 
@@ -33,8 +34,11 @@ DSA-KodNest75/
 ├── 02-Two-Pointers/
 │   └── MergeStringsAlternately.java
 │
-└── 03-Strings/
-    └── GCDOfStrings.java
+├── 03-Strings/
+│   └── GCDOfStrings.java
+│
+└── 04-Binary-Search/
+    └── KokoEatingBananas.java
 ```
 
 ---
@@ -63,9 +67,9 @@ DSA-KodNest75/
 * Arrays
 * Two Pointers
 * Strings
+* Binary Search
 * Hashing
 * Sliding Window
-* Binary Search
 * Prefix Sum
 * Other DSA concepts
 
