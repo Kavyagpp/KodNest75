@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**7 / 75 Problems Completed**
+**8 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -21,6 +21,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 05 | Determine If Two Strings Are Close | Hashing | ✅ |
 | 06 | Unique Number of Occurrences | Hashing | ✅ |
 | 07 | Removing Stars From a String | Stack | ✅ |
+| 08 | Equal Row and Column Pairs | Hashing / Matrix | ✅ |
 
 ---
 
@@ -43,7 +44,8 @@ DSA-KodNest75/
 │
 ├── 05-Hashing/
 │   ├── DetermineIfTwoStringsAreClose.java
-│   └── UniqueNumberOfOccurrences.java
+│   ├── UniqueNumberOfOccurrences.java
+│   └── EqualRowColumnPairs.java
 │
 ├── 06-Stack/
 │   └── RemovingStarsFromString.java
@@ -82,6 +84,7 @@ DSA-KodNest75/
 - HashSet
 - Frequency Counting
 - Stack
+- 2D Arrays / Matrix
 
 ---
 
