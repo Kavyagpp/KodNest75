@@ -10,16 +10,17 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**6 / 75 Problems Completed**
+**7 / 75 Problems Completed**
 
-| Day | Problem Name                                    | Category      | Status |
-| :-: | ----------------------------------------------- | ------------- | :----: |
-|  01 | Kids With the Greatest Number of Chocolates     | Arrays        |    ✅   |
-|  02 | Merge Strings Alternately                       | Two Pointers  |    ✅   |
-|  03 | Greatest Common Prefix Pattern (GCD of Strings) | Strings / GCD |    ✅   |
-|  04 | Koko Eating Bananas                             | Binary Search |    ✅   |
-|  05 | Determine If Two Strings Are Close              | Hashing       |    ✅   |
-|  06 | Unique Number of Occurrences                    | Hashing       |    ✅   |
+| Day | Problem Name | Category | Status |
+|:---:|---|---|:---:|
+| 01 | Kids With the Greatest Number of Chocolates | Arrays | ✅ |
+| 02 | Merge Strings Alternately | Two Pointers | ✅ |
+| 03 | Greatest Common Prefix Pattern (GCD of Strings) | Strings / GCD | ✅ |
+| 04 | Koko Eating Bananas | Binary Search | ✅ |
+| 05 | Determine If Two Strings Are Close | Hashing | ✅ |
+| 06 | Unique Number of Occurrences | Hashing | ✅ |
+| 07 | Removing Stars From a String | Stack | ✅ |
 
 ---
 
@@ -27,8 +28,6 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ```text
 DSA-KodNest75/
-│
-├── README.md
 │
 ├── 01-Arrays/
 │   └── KidsWithGreatestNumberOfChocolates.java
@@ -42,41 +41,47 @@ DSA-KodNest75/
 ├── 04-Binary-Search/
 │   └── KokoEatingBananas.java
 │
-└── 05-Hashing/
-    ├── DetermineIfTwoStringsAreClose.java
-    └── UniqueNumberOfOccurrences.java
+├── 05-Hashing/
+│   ├── DetermineIfTwoStringsAreClose.java
+│   └── UniqueNumberOfOccurrences.java
+│
+├── 06-Stack/
+│   └── RemovingStarsFromString.java
+│
+└── README.md
 ```
 
 ---
 
 ## 🛠️ Technologies
 
-* Java
-* Data Structures and Algorithms
-* Git
-* GitHub
+- Java
+- Data Structures and Algorithms
+- Git
+- GitHub
 
 ---
 
 ## 🎯 Learning Objectives
 
-* Improve logical thinking and problem-solving.
-* Understand DSA concepts and algorithmic patterns.
-* Write optimized and readable Java code.
-* Analyze time and space complexity.
-* Prepare for technical interviews and coding assessments.
+- Improve logical thinking and problem-solving.
+- Understand DSA concepts and algorithmic patterns.
+- Write optimized and readable Java code.
+- Analyze time and space complexity.
+- Prepare for technical interviews and coding assessments.
 
 ---
 
 ## 📚 Topics Covered
 
-* Arrays
-* Two Pointers
-* Strings
-* Binary Search
-* HashMap
-* HashSet
-* Frequency Counting
+- Arrays
+- Two Pointers
+- Strings
+- Binary Search
+- HashMap
+- HashSet
+- Frequency Counting
+- Stack
 
 ---
 
