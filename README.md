@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**8 / 75 Problems Completed**
+**9 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -22,6 +22,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 06 | Unique Number of Occurrences | Hashing | ✅ |
 | 07 | Removing Stars From a String | Stack | ✅ |
 | 08 | Equal Row and Column Pairs | Hashing / Matrix | ✅ |
+| 09 | Find Peak Element | Binary Search | ✅ |
 
 ---
 
@@ -40,7 +41,8 @@ DSA-KodNest75/
 │   └── GCDOfStrings.java
 │
 ├── 04-Binary-Search/
-│   └── KokoEatingBananas.java
+│   ├── KokoEatingBananas.java
+│   └── FindPeakElement.java
 │
 ├── 05-Hashing/
 │   ├── DetermineIfTwoStringsAreClose.java
