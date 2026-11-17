@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**10 / 75 Problems Completed**
+**11 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -24,6 +24,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 08 | Equal Row and Column Pairs | Hashing / Matrix | ✅ |
 | 09 | Find Peak Element | Binary Search | ✅ |
 | 10 | Successful Pairs of Spells and Potions | Binary Search | ✅ |
+| 11 | Asteroid Collision | Stack | ✅ |
 
 ---
 
@@ -52,8 +53,8 @@ DSA-KodNest75/
 │   └── EqualRowColumnPairs.java
 │
 ├── 06-Stack/
-│   └── RemovingStarsFromString.java
-│
+│   ├── RemovingStarsFromString.java
+│   └── AsteroidCollision.java
 └── README.md
 ```
 
