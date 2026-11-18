@@ -2,7 +2,6 @@
 import java.util.*;
 
 public class AsteroidCollision {
-
     // First: Main method
     public static void main(String[] args) {
 
