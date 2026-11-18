@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**11 / 75 Problems Completed**
+**12 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -25,6 +25,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 09 | Find Peak Element | Binary Search | ✅ |
 | 10 | Successful Pairs of Spells and Potions | Binary Search | ✅ |
 | 11 | Asteroid Collision | Stack | ✅ |
+| 12 | Decode String | Stack | ✅ |
 
 ---
 
@@ -55,6 +56,7 @@ DSA-KodNest75/
 ├── 06-Stack/
 │   ├── RemovingStarsFromString.java
 │   └── AsteroidCollision.java
+│   └── DecodeString.java
 └── README.md
 ```
 
