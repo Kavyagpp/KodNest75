@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**12 / 75 Problems Completed**
+**13 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -26,6 +26,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 10 | Successful Pairs of Spells and Potions | Binary Search | ✅ |
 | 11 | Asteroid Collision | Stack | ✅ |
 | 12 | Decode String | Stack | ✅ |
+| 13  | Can Place Flowers | Greedy / Arrays  | ✅ |
 
 ---
 
@@ -92,6 +93,7 @@ DSA-KodNest75/
 - Frequency Counting
 - Stack
 - 2D Arrays / Matrix
+- Greedy Algorithm
 
 ---
 
