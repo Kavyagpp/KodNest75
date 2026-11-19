@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**13 / 75 Problems Completed**
+**14 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -27,6 +27,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 11 | Asteroid Collision | Stack | ✅ |
 | 12 | Decode String | Stack | ✅ |
 | 13  | Can Place Flowers | Greedy / Arrays  | ✅ |
+| 14 | Reverse Words in a Sentence | Strings / String Manipulation | ✅ |
 
 ---
 
@@ -44,6 +45,7 @@ DSA-KodNest75/
 │
 ├── 03-Strings/
 │   └── GCDOfStrings.java
+│   └── ReverseWordsInSentence.java
 │
 ├── 04-Binary-Search/
 │   ├── KokoEatingBananas.java
@@ -88,6 +90,7 @@ DSA-KodNest75/
 - Arrays
 - Two Pointers
 - Strings
+- String Manipulation
 - Binary Search
 - HashMap
 - HashSet
