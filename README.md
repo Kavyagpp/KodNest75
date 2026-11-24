@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**14 / 75 Problems Completed**
+**15 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -28,6 +28,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 12 | Decode String | Stack | ✅ |
 | 13  | Can Place Flowers | Greedy / Arrays  | ✅ |
 | 14 | Reverse Words in a Sentence | Strings / String Manipulation | ✅ |
+| 15 | IsSequences | Two Pointers | ✅ |
 
 ---
 
@@ -42,6 +43,7 @@ DSA-KodNest75/
 │
 ├── 02-Two-Pointers/
 │   └── MergeStringsAlternately.java
+│   └── IsSubsquences.java
 │
 ├── 03-Strings/
 │   └── GCDOfStrings.java
