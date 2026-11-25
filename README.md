@@ -10,7 +10,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 
 ## 📊 Progress Tracker
 
-**15 / 75 Problems Completed**
+**16 / 75 Problems Completed**
 
 | Day | Problem Name | Category | Status |
 |:---:|---|---|:---:|
@@ -29,6 +29,7 @@ The goal is to strengthen problem-solving skills, understand different algorithm
 | 13  | Can Place Flowers | Greedy / Arrays  | ✅ |
 | 14 | Reverse Words in a Sentence | Strings / String Manipulation | ✅ |
 | 15 | IsSequences | Two Pointers | ✅ |
+| 16 | Number of Recent Calls | Queue | ✅ |
 
 ---
 
@@ -63,6 +64,9 @@ DSA-KodNest75/
 │   ├── RemovingStarsFromString.java
 │   └── AsteroidCollision.java
 │   └── DecodeString.java
+├── 07-Queue/
+│   ├── NumberOfRecentCalls.java
+
 └── README.md
 ```
 
